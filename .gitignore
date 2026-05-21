@@ -1,0 +1,9 @@
+# Compiled output
+bin/
+*.class
+
+# macOS
+.DS_Store
+
+# VS Code Java extension
+.settings/
