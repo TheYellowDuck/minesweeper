@@ -2,6 +2,8 @@
 
 A fully-featured Minesweeper clone built in Java with a custom dark-themed UI, a probability-based AI solver, and dynamic tile scaling.
 
+<video src="demo.mp4" controls width="100%"></video>
+
 ## Features
 
 - **Custom rendered board** — 3D bevel tiles drawn with `Graphics2D`, distinct highlight/shadow edges for unrevealed vs. revealed states
