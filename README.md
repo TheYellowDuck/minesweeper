@@ -2,7 +2,7 @@
 
 A fully-featured Minesweeper clone built in Java with a custom dark-themed UI, a probability-based AI solver, and dynamic tile scaling.
 
-<video src="demo.mp4" controls width="100%"></video>
+<video src="https://github.com/user-attachments/assets/5ca71202-ed3b-4767-a503-db45b24adbb2" controls width="100%"></video>
 
 ## Features
 
